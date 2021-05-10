@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aratsimbaharison.
+- 👋 Hi, I’m Adrien Ratsimbaharison.
 - 👀 I’m interested in using  r to analyze quantitative and qualitative data on African politics and economics.
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on collecting and analyzing quantitative and qualitative data on African politics, economics, society, and culture, in general, and on development, democratization, and armed conflicts, in particular.
